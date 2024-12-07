@@ -1,0 +1,23 @@
+
+
+
+
+.hero-section {
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: left;
+    padding: 80px 20px;
+}
+
+main {
+    padding: 80px 20px;
+}
+
+.caution-section {
+    background-color: #d9e6d2;
+    padding: 20px;
+    text-align: center;
+    border-radius: 8px;
+    margin: 40px 0;
+  }
