@@ -15,9 +15,24 @@ main {
 }
 
 .caution-section {
-    background-color: #d9e6d2;
+    background-color: #C9D9AC;
     padding: 20px;
     text-align: center;
     border-radius: 8px;
     margin: 40px 0;
+  }
+
+.fund-section {
+    background-color: #C9D9AC;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 40px 0;
+
+}
+
+footer {
+    background-color: #728D53;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
   }
