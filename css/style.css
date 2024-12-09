@@ -21,7 +21,7 @@ button {
 }
 
 main {
-    padding: 80px 20px;
+    padding: 20px;
 }
 
 .red-squirrel {
@@ -60,6 +60,13 @@ footer {
     padding: 20px 0;
     text-align: center;
   }
+
+  .rounded-image {
+    border-radius: 15px; /* Rounded corners for the image */
+    width: 100%; /* Full width for responsive scaling */
+    max-height: 250px; /* Limit height for consistency */
+    object-fit: cover; /* Crop without distorting aspect ratio */
+}
 
 ul {
     list-style: none;
