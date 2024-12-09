@@ -51,7 +51,7 @@ main {
 footer {
     background-color: #728D53;
     color: white;
-    padding: 20px 0;
+    padding: 0;
     text-align: center;
   }
 .footer {
@@ -62,10 +62,12 @@ footer {
   }
 
   .rounded-image {
-    border-radius: 15px; /* Rounded corners for the image */
-    width: 100%; /* Full width for responsive scaling */
-    max-height: 250px; /* Limit height for consistency */
-    object-fit: cover; /* Crop without distorting aspect ratio */
+    border-radius: 15px; 
+    width: 100%; 
+    max-height: 250px; 
+    object-fit: cover;
+    object-position: 0% 25%;
+    
 }
 
 ul {
